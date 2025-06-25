@@ -34,3 +34,45 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+01_cuts/01a_poss_areas/
+
+01_cuts/
+
+02_samples/
+
+03_sites/
+
+*.gpkg
+
+data/Avenza plot locations compiled/
+
+data/Data/Sites/MV01/Installation/Data forms/
+
+data/Data/Sites/MV01/Installation/Photos/
+
+data/Data/Sites/MV01/MV01-op/Data forms/
+
+data/Data/Sites/MV01/MV01-rp/Data forms/
+
+data/Data/Sites/MV01/PhotosD1/
+
+data/Data/Sites/MV02/Installation/Data forms/
+
+data/Data/Sites/MV02/MV02-op/Photos/
+
+*.HEIC
+
+*.jpg
+
+*.PNG
+
+data/locations-download-June9/June 1st-30th/
+
+data/locations-download-June9/May 11th-31st/
+
+data/
+
+*.tif
+
+sip-partial-harvest.Rproj
